@@ -20,6 +20,10 @@ flutter run
 ### Date Range Picker
 ![main](https://user-images.githubusercontent.com/91388754/189640363-89366b12-0b02-4559-bce2-cbc7492b6f41.png)
 
+
+## Links
+[Apache License](LICENSE)
+
 ## Links
 ### Support Me
 <a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
