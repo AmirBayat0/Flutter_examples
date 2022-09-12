@@ -21,7 +21,7 @@ flutter run
 ![main](https://user-images.githubusercontent.com/91388754/189640363-89366b12-0b02-4559-bce2-cbc7492b6f41.png)
 
 
-## Links
+## License
 [Apache License](LICENSE)
 
 ## Links
