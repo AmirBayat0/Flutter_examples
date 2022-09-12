@@ -11,7 +11,8 @@ flutter run
 
 ## Screenshots
 
-### Wallet
+### Password Strength Checker
+![main](https://user-images.githubusercontent.com/91388754/189608510-2dc918af-c5e2-480c-8737-64fe63f68198.png)
 
 ## Links
 ### Support Me
