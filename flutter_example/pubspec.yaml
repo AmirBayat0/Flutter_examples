@@ -14,6 +14,9 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   google_fonts: any
+  sqflite: ^2.0.3+1
+  animate_do: ^2.1.0
+  flutter_slidable: ^2.0.0
 
 dev_dependencies:
   flutter_test:
