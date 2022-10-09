@@ -11,6 +11,9 @@ flutter run
 
 ## Screenshots
 
+### SQLite CRUD Example
+![main](https://user-images.githubusercontent.com/91388754/193295449-8b7c6066-f10a-4fb0-9fb2-bc100b1a8722.png)
+
 ### OTP Verification Screen
 ![main](https://user-images.githubusercontent.com/91388754/190915199-f6eb2ef4-fc96-4d1d-9110-1e03b0b54378.png)
 
