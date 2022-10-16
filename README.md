@@ -26,6 +26,9 @@ flutter run
 ### Stepper widget
 ![main](https://user-images.githubusercontent.com/91388754/189622886-9d93b9be-e790-421f-a1fb-cda86eebd2a6.png)
 
+### Flutter Accordions 
+![main](https://user-images.githubusercontent.com/91388754/196024137-7159c296-1ff6-4bd7-a0b8-4ca7d7af1a98.png)
+
 ### Date Range Picker
 ![main](https://user-images.githubusercontent.com/91388754/189640363-89366b12-0b02-4559-bce2-cbc7492b6f41.png)
 
