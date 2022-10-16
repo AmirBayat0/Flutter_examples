@@ -17,6 +17,9 @@ flutter run
 ### OTP Verification Screen
 ![main](https://user-images.githubusercontent.com/91388754/190915199-f6eb2ef4-fc96-4d1d-9110-1e03b0b54378.png)
 
+### Highlight selected items in a ListView
+![main](https://user-images.githubusercontent.com/91388754/194743462-f89393e7-cb1d-427e-ab77-ad55581fe265.png)
+
 ### Password Strength Checker
 ![main](https://user-images.githubusercontent.com/91388754/189608510-2dc918af-c5e2-480c-8737-64fe63f68198.png)
 
