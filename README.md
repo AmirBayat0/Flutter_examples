@@ -23,6 +23,9 @@ flutter run
 ### Password Strength Checker
 ![main](https://user-images.githubusercontent.com/91388754/189608510-2dc918af-c5e2-480c-8737-64fe63f68198.png)
 
+### Dynamic Checkboxes
+![main](https://user-images.githubusercontent.com/91388754/196469404-0146576c-852e-48ff-8423-f976d9e63cff.png)
+
 ### Stepper widget
 ![main](https://user-images.githubusercontent.com/91388754/189622886-9d93b9be-e790-421f-a1fb-cda86eebd2a6.png)
 
