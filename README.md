@@ -17,6 +17,9 @@ flutter run
 ### OTP Verification Screen
 ![main](https://user-images.githubusercontent.com/91388754/190915199-f6eb2ef4-fc96-4d1d-9110-1e03b0b54378.png)
 
+### Countdown Timer
+![main](https://user-images.githubusercontent.com/91388754/198369023-1145c1c4-c1e0-4540-afaa-4f59cb6c63a0.png)
+
 ### Highlight selected items in a ListView
 ![main](https://user-images.githubusercontent.com/91388754/194743462-f89393e7-cb1d-427e-ab77-ad55581fe265.png)
 
