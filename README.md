@@ -17,6 +17,9 @@ flutter run
 ### OTP Verification Screen
 ![main](https://user-images.githubusercontent.com/91388754/190915199-f6eb2ef4-fc96-4d1d-9110-1e03b0b54378.png)
 
+### Custom Tab Bar
+![main](https://user-images.githubusercontent.com/91388754/209634563-902afe8e-c591-4920-a468-405e63e3d8e5.png)
+
 ### Countdown Timer
 ![main](https://user-images.githubusercontent.com/91388754/198369023-1145c1c4-c1e0-4540-afaa-4f59cb6c63a0.png)
 
