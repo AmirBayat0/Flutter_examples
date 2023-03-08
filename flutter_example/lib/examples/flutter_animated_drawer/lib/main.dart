@@ -36,40 +36,6 @@ class HomeTest extends StatefulWidget {
   State<HomeTest> createState() => _HomeTestState();
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class _HomeTestState extends State<HomeTest> {
   final zoomDrawerController = ZoomDrawerController();
   List<String> screenStringTest = ["Home", "Explore", "Profile", "Settings"];

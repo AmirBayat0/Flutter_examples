@@ -35,6 +35,9 @@ flutter run
 ### Dynamic Checkboxes
 ![main](https://user-images.githubusercontent.com/91388754/196469404-0146576c-852e-48ff-8423-f976d9e63cff.png)
 
+### Animated Drawer
+![ewewew](https://user-images.githubusercontent.com/91388754/222496252-1437f07b-a43f-465d-9ac4-78aa3e6d8cba.gif)
+
 ### Stepper widget
 ![main](https://user-images.githubusercontent.com/91388754/189622886-9d93b9be-e790-421f-a1fb-cda86eebd2a6.png)
 
