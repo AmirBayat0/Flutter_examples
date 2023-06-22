@@ -20,6 +20,9 @@ flutter run
 ### Custom Tab Bar
 ![main](https://user-images.githubusercontent.com/91388754/209634563-902afe8e-c591-4920-a468-405e63e3d8e5.png)
 
+### Flutter Multiselect
+![Screenshot (693)](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/971ab5e6-4e27-49e2-affb-d127fb693428)
+
 ### Countdown Timer
 ![main](https://user-images.githubusercontent.com/91388754/198369023-1145c1c4-c1e0-4540-afaa-4f59cb6c63a0.png)
 
