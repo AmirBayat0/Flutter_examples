@@ -1,3 +1,6 @@
+/// Complete tutorial available at:
+/// https://www.kindacode.com/article/flutter-making-a-dropdown-multiselect-with-checkboxes/
+
 import 'package:flutter/material.dart';
 
 void main() {
