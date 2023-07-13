@@ -18,6 +18,7 @@ dependencies:
   animate_do: ^2.1.0
   flutter_slidable: ^2.0.0
   quickalert: ^1.0.0
+  lottie: ^2.4.0
 
 dev_dependencies:
   flutter_test:
