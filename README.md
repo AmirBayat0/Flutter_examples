@@ -11,6 +11,9 @@ flutter run
 
 ## Screenshots
 
+### Password Strength Checker New
+![Untitled](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/bb6b73ef-2f15-4df9-9925-4103a928a38d)
+
 ### SQLite CRUD Example
 ![main](https://user-images.githubusercontent.com/91388754/193295449-8b7c6066-f10a-4fb0-9fb2-bc100b1a8722.png)
 
