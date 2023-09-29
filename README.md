@@ -1,6 +1,6 @@
 ## Flutter examples
 
-Here you can find some Flutter examples.
+Here you can find Flutter examples.
 
 ## Development Setup
 Clone the repository and run the following commands:
@@ -75,16 +75,14 @@ flutter run
 ## License
 [Apache License](LICENSE)
 
-## Links
-### Support Me
-<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
-### Socials
-<p align="left"> 
-<a href="http://www.instagram.com/codewithflexz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-<a href="https://znap.link/CodeWithFlexz" target="_blank" rel="noreferrer"><img src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
-</p>
+## This link allows you to support me
+* [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
 
+## My Socials:
+* [INSTAGRAM](https://www.instagram.com/codewithflexz)
+* [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
+* [CONTACT ME](https://amirbayat.dev@gmail.com)
+* [FIND MORE](https://zaap.bio/CodeWithFlexz)
 
 
 
