@@ -20,6 +20,9 @@ flutter run
 ### OTP Verification Screen
 ![main](https://user-images.githubusercontent.com/91388754/190915199-f6eb2ef4-fc96-4d1d-9110-1e03b0b54378.png)
 
+### Date Range Picker
+![v](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/654fe85c-cf00-4ae3-9f94-16fe687a1189)
+
 ### Custom Tab Bar
 ![Untitled](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/285da67d-8cc7-4c16-8e6f-9cc0838bd301)
 
@@ -64,9 +67,6 @@ flutter run
 
 ### Flutter Accordions 
 ![main](https://user-images.githubusercontent.com/91388754/196024137-7159c296-1ff6-4bd7-a0b8-4ca7d7af1a98.png)
-
-### Date Range Picker
-![main](https://user-images.githubusercontent.com/91388754/189640363-89366b12-0b02-4559-bce2-cbc7492b6f41.png)
 
 ### Quick Alert
 ![1](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/a6c9288d-9e02-457e-b05f-497debd2fd21)
