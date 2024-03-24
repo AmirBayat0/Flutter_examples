@@ -11,11 +11,18 @@ flutter run
 
 ## Screenshots
 
+### Solar System App
+![o](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/355bd5e3-e512-497f-9c0a-000998c1bbcf)
+
+### GAME OF THRONES STORY APP
+![github-min](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/e4712b37-5574-4a7e-afd5-691a228cd478)
+
 ### Password Strength Checker New
 ![Untitled](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/bb6b73ef-2f15-4df9-9925-4103a928a38d)
 
 ### SQLite CRUD Example
 ![Untitled](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/f1a6a023-8c63-4d15-baf3-e553273f39d3)
+
 
 ### OTP Verification Screen
 ![main](https://user-images.githubusercontent.com/91388754/190915199-f6eb2ef4-fc96-4d1d-9110-1e03b0b54378.png)
