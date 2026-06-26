@@ -42,7 +42,7 @@ flutter run
 
 </div>
 
-## Youtube Ui Clone
+## Currency Converter
 <div align="center">
 
 <table>
