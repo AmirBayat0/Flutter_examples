@@ -42,6 +42,20 @@ flutter run
 
 </div>
 
+## Youtube Ui Clone
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b70bd121-6fec-4761-8d68-321a0b5875d3" width="500" height="1000" /></td>
+    <td><img src="https://github.com/user-attachments/assets/265c516f-31fa-4b7c-964c-37b74ab78e61" width="500" height="1000" /></td>
+    <td><img src="https://github.com/user-attachments/assets/74064349-1e68-4347-9c99-41e6659d9eed" width="500" height="1000" /></td>
+  </tr>
+
+</table>
+
+</div>
+
 ### Solar System App
 ![o](https://github.com/AmirBayat0/Flutter_examples/assets/91388754/355bd5e3-e512-497f-9c0a-000998c1bbcf)
 
