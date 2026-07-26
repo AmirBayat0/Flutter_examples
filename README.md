@@ -47,24 +47,24 @@ flutter run
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/159f8a54-0753-4b51-9a97-28c910434066" width="500" height="600" /></td>
-    <td><img src="https://github.com/user-attachments/assets/32965b0c-f002-411e-afc9-9ee5fa2e460f" width="500" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/159f8a54-0753-4b51-9a97-28c910434066" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/32965b0c-f002-411e-afc9-9ee5fa2e460f" width="600" height="600" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0a44700b-e04f-448b-9f45-2e61974dfc05" width="500" height="600" /></td>
-    <td><img src="https://github.com/user-attachments/assets/39fc5496-271c-48de-9697-215c7c84b8bb" width="500" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/0a44700b-e04f-448b-9f45-2e61974dfc05" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/39fc5496-271c-48de-9697-215c7c84b8bb" width="600" height="600" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1e5de659-ac4c-4193-9006-2640b81a5d67" width="500" height="600" /></td>
-    <td><img src="https://github.com/user-attachments/assets/18f95b81-16c1-4706-9dbc-63d76941c4a5" width="500" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1e5de659-ac4c-4193-9006-2640b81a5d67" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/18f95b81-16c1-4706-9dbc-63d76941c4a5" width="600" height="600" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f176c6c9-4cc7-4c20-b351-447052f4b8b1" width="500" height="600" /></td>
-    <td><img src="https://github.com/user-attachments/assets/26b2fc81-6bd2-4a71-8def-56cc084470f9" width="500" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/f176c6c9-4cc7-4c20-b351-447052f4b8b1" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/26b2fc81-6bd2-4a71-8def-56cc084470f9" width="600" height="600" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cb99c700-bc79-4a81-b096-28778d015871" width="500" height="600" /></td>
-    <td><img src="https://github.com/user-attachments/assets/d98ce2bf-fd67-4ec0-8ca7-4571aa45d286" width="500" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/cb99c700-bc79-4a81-b096-28778d015871" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/d98ce2bf-fd67-4ec0-8ca7-4571aa45d286" width="600" height="600" /></td>
   </tr>
 </table>
 
