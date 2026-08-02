@@ -11,6 +11,8 @@ flutter run
 
 ## Screenshots
 
+
+
 ### Youtube Ui Clone
 <div align="center">
 
@@ -36,6 +38,32 @@ flutter run
     <td><img src="https://github.com/user-attachments/assets/50bdac9b-7fe0-4ded-bedd-6707aad6cd35" width="500" height="600" /></td>
       <td><img src="https://github.com/user-attachments/assets/662a1052-95fa-40be-ac75-b38123bacdc4" width="500" height="600" /></td>
     </tr>
+
+     
+</table>
+
+</div>
+
+### Pro Dialog Example
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e1480a3c-05b8-40f4-b372-742c38bd672e" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e10dd50f-0a66-4e4b-b793-507373180949" width="600" height="600" /></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/user-attachments/assets/5542ac64-8f2e-440f-8d92-a1b9dc2d6ec4" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/6c058674-0918-43a9-86e5-292e436681d7" width="600" height="600" /></td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/user-attachments/assets/951045e1-7fd6-427f-9023-d867e236e64c" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/7c2052df-7d7e-4ccc-9c7c-1221b4683fb5" width="600" height="600" /></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/user-attachments/assets/dc98aa30-6abd-4c8e-9239-118efe484e2a" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e8ccd79c-bf07-4759-87fd-5b68987008dc" width="600" height="600" /></td>
+  </tr>
 
      
 </table>
