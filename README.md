@@ -11,6 +11,36 @@ flutter run
 
 ## Screenshots
 
+### Spotify Clone
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b7ad9f6d-3da6-49d6-89f9-81536223c5cf" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a2a7100b-f1a8-4b19-9a50-b8e5dfa44b78" width="600" height="600" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/224263bf-71f0-4594-a5a3-4dd6549e75f2" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e6ea3875-9b18-4968-84f5-0c785fa38454" width="600" height="600" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b1036ae4-e3b8-43d4-b33c-5fec616351e7" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/bc357773-aa26-44fe-8269-4346ec80c283" width="600" height="600" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5907bee6-4f15-4caa-b3d7-2cc2b3584cf2" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/37176248-98dd-4052-99ab-39f408a4d037" width="600" height="600" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c70ae24b-f58b-4c78-8c5e-aa976831c0b7" width="600" height="600" /></td>
+    <td><img src="https://github.com/user-attachments/assets/9d465b83-c908-4693-9ff4-3c2aa9e0d836" width="600" height="600" /></td>
+  </tr>
+  
+     
+</table>
+
+</div>
+
 
 
 ### Youtube Ui Clone
